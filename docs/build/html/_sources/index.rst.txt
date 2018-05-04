@@ -1,15 +1,31 @@
-.. hello documentation master file, created by
-   sphinx-quickstart on Thu May  3 20:22:46 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to hello's documentation!
-=================================
+Software Requirements Specification for OMG Version 0.1
+=======================================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :numbered:
 
+   Introduction
+   Functional requirements
+   Non-functional requirements
+   Constraints
+   Change cases
+   Milestones
+   Appendices
+   References
+
+Group Information
+=================
+
+Group name:
+-----------
+andrewanton
+
+Group Member:
+-------------
+
+		1.ANDREW WILINATA(201633030132) andrew_eldioz@yahoo.com
+		2.ANTONIO WILINATA(201633030133) antx_blade5@yahoo.com
 
 
 Indices and tables
